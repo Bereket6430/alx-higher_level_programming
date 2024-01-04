@@ -58,5 +58,5 @@ if __name__ == "__main__":
                 else:
                     nqueens(x + 1)  # moves on to next x value to continue
 
-    # start the recursive process at x = 0
+    #start the recursive process at x = 0
     nqueens(0)
